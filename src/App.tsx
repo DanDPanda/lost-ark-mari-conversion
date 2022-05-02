@@ -1,18 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header';
+import Mari from './components/Mari';
 
 var rootStyle = {
   background: '#131924',
   color: '#131924',
-  height : '100vh'
+  height: '1000vh'
 }
 
 function App() {
   return (
     <div style={rootStyle}>
-      <Header/>
+      <Header />
+      <Mari />
     </div>
   );
 }
