@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import { styled } from '@mui/material/styles';
 import Typography from '@mui/material/Typography';
@@ -60,7 +60,7 @@ class Mari extends React.Component<any, { goldCost: number }> {
     constructor(props: any) {
         super(props);
         this.state = {
-            goldCost: 700
+            goldCost: 600
         }
     }
 
@@ -123,7 +123,7 @@ class Mari extends React.Component<any, { goldCost: number }> {
                                     <StyledTableRow key={row.itemName}>
                                         <StyledTableCell component="th" scope="row">
                                             <div>
-                                                <img width="30px" height="30px" src={row.image} style={{ verticalAlign: "middle", marginRight: "10px" }} />
+                                                <img width="50px" height="50px" src={row.image} style={{ verticalAlign: "middle", marginRight: "10px" }} />
                                                 <div style={{ display: "inline-block" }}>
                                                     {row.itemName}
                                                 </div>
