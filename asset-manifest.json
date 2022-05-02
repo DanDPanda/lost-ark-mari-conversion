@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lost-ark-should-rate-up/static/css/main.073c9b0a.css",
-    "main.js": "/lost-ark-should-rate-up/static/js/main.d3322569.js",
+    "main.css": "/lost-ark-should-rate-up/static/css/main.224903c0.css",
+    "main.js": "/lost-ark-should-rate-up/static/js/main.0c6bc526.js",
     "static/js/787.28cb0dcd.chunk.js": "/lost-ark-should-rate-up/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/lost-ark-should-rate-up/index.html",
-    "main.073c9b0a.css.map": "/lost-ark-should-rate-up/static/css/main.073c9b0a.css.map",
-    "main.d3322569.js.map": "/lost-ark-should-rate-up/static/js/main.d3322569.js.map",
+    "main.224903c0.css.map": "/lost-ark-should-rate-up/static/css/main.224903c0.css.map",
+    "main.0c6bc526.js.map": "/lost-ark-should-rate-up/static/js/main.0c6bc526.js.map",
     "787.28cb0dcd.chunk.js.map": "/lost-ark-should-rate-up/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d3322569.js"
+    "static/css/main.224903c0.css",
+    "static/js/main.0c6bc526.js"
   ]
 }
