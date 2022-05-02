@@ -1,4 +1,5 @@
 import './App.css';
+import Footer from './components/Footer';
 import Header from './components/Header';
 import Mari from './components/Mari';
 
@@ -7,6 +8,7 @@ function App() {
     <body>
       <Header />
       <Mari />
+      <Footer />
     </body>
   );
 }
