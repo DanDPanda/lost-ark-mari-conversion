@@ -13,7 +13,6 @@ function App() {
   return (
     <div style={rootStyle}>
       <Header/>
-      12312312
     </div>
   );
 }
