@@ -23,12 +23,12 @@ const StyledTableCell = styled(TableCell)(({ theme }) => ({
     [`&.${tableCellClasses.head}`]: {
         backgroundColor: '#2E3B55',
         color: theme.palette.common.white,
-        fontSize: 28,
-        height: 60
+        fontSize: 24,
+        height: 40
     },
     [`&.${tableCellClasses.body}`]: {
-        fontSize: 20,
-        height: 60
+        fontSize: 16,
+        height: 40
     },
 }));
 
@@ -123,7 +123,7 @@ class Mari extends React.Component<any, { goldCost: number }> {
                                     <StyledTableRow key={row.itemName}>
                                         <StyledTableCell component="th" scope="row">
                                             <div>
-                                                <img width="50px" height="50px" src={row.image} style={{ verticalAlign: "middle", marginRight: "10px" }} />
+                                                <img width="30px" height="30px" src={row.image} style={{ verticalAlign: "middle", marginRight: "10px" }} />
                                                 <div style={{ display: "inline-block" }}>
                                                     {row.itemName}
                                                 </div>
