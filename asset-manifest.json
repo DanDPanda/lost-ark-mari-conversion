@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lost-ark-mari-conversion/static/css/main.224903c0.css",
-    "main.js": "/lost-ark-mari-conversion/static/js/main.bdd88963.js",
+    "main.js": "/lost-ark-mari-conversion/static/js/main.39e8f6cc.js",
     "static/js/787.28cb0dcd.chunk.js": "/lost-ark-mari-conversion/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/lost-ark-mari-conversion/index.html",
     "main.224903c0.css.map": "/lost-ark-mari-conversion/static/css/main.224903c0.css.map",
-    "main.bdd88963.js.map": "/lost-ark-mari-conversion/static/js/main.bdd88963.js.map",
+    "main.39e8f6cc.js.map": "/lost-ark-mari-conversion/static/js/main.39e8f6cc.js.map",
     "787.28cb0dcd.chunk.js.map": "/lost-ark-mari-conversion/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.224903c0.css",
-    "static/js/main.bdd88963.js"
+    "static/js/main.39e8f6cc.js"
   ]
 }
