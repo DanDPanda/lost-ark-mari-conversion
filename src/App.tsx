@@ -1,7 +1,7 @@
 import './App.css';
-import Footer from './components/Footer';
-import Header from './components/Header';
-import Mari from './components/Mari';
+import Footer from './components/footer-component';
+import Header from './components/header-component';
+import Mari from './components/mari-component';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <Header />
       <Mari />
       <Footer />
-    </body>
+    </body >
   );
 }
 
