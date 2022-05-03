@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lost-ark-should-rate-up/static/css/main.224903c0.css",
-    "main.js": "/lost-ark-should-rate-up/static/js/main.0c6bc526.js",
-    "static/js/787.28cb0dcd.chunk.js": "/lost-ark-should-rate-up/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/lost-ark-should-rate-up/index.html",
-    "main.224903c0.css.map": "/lost-ark-should-rate-up/static/css/main.224903c0.css.map",
-    "main.0c6bc526.js.map": "/lost-ark-should-rate-up/static/js/main.0c6bc526.js.map",
-    "787.28cb0dcd.chunk.js.map": "/lost-ark-should-rate-up/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/lost-ark-mari-conversion/static/css/main.224903c0.css",
+    "main.js": "/lost-ark-mari-conversion/static/js/main.bdd88963.js",
+    "static/js/787.28cb0dcd.chunk.js": "/lost-ark-mari-conversion/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/lost-ark-mari-conversion/index.html",
+    "main.224903c0.css.map": "/lost-ark-mari-conversion/static/css/main.224903c0.css.map",
+    "main.bdd88963.js.map": "/lost-ark-mari-conversion/static/js/main.bdd88963.js.map",
+    "787.28cb0dcd.chunk.js.map": "/lost-ark-mari-conversion/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.224903c0.css",
-    "static/js/main.0c6bc526.js"
+    "static/js/main.bdd88963.js"
   ]
 }
