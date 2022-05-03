@@ -7,11 +7,10 @@ function Header() {
             <AppBar position="static" style={{ background: '#2E3B55' }}>
                 <Typography
                     variant="h3"
-                    noWrap
-                    component="div"
                     textAlign="center"
                     marginTop="40px"
-                    style={{ color: "white" }}
+                    marginBottom="40px"
+                    color="white"
                 >
                     Mari Shop Calculator
                 </Typography>
