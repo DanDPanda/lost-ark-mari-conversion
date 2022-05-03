@@ -6,14 +6,14 @@ function Header() {
         <header>
             <AppBar position="static" style={{ background: '#2E3B55' }}>
                 <Typography
-                    variant="h1"
+                    variant="h3"
                     noWrap
                     component="div"
                     textAlign="center"
-                    marginTop="20px"
-                    marginBottom="20px"
+                    marginTop="40px"
+                    style={{ color: "white" }}
                 >
-                    Should you use Rateup?
+                    Mari Shop Calculator
                 </Typography>
             </AppBar>
         </header>

@@ -83,17 +83,6 @@ class Mari extends React.Component<any, { goldCost: number }> {
     render() {
         return (
             <header>
-                <Typography
-                    variant="h3"
-                    noWrap
-                    component="div"
-                    textAlign="center"
-                    marginTop="40px"
-                    style={{ color: "white" }}
-                >
-                    Mari Shop Calculator
-                </Typography>
-
                 <div style={{ whiteSpace: "nowrap", textAlign: "center", marginTop: "40px" }}>
                     <Typography
                         variant="h6"
